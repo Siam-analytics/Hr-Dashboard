@@ -52,7 +52,7 @@ Apply to all visualizations:
    - Use Worksheet > Export to save views
 
 ## Data Source
-- <a href = "https://github.com/Siam-analytics/Hr-Dashboard/blob/main/HR%20Data.xlsx"</a>
+- "https://github.com/Siam-analytics/Hr-Dashboard/blob/main/HR%20Data.xlsx"
 
 
 ## Customization Options
