@@ -1,6 +1,6 @@
 # HR Analytics Dashboard - Tableau Desktop
 
-![Dashboard Screenshot](screenshot.png) *(Upload a screenshot named 'screenshot.png')*
+![Dashboard Screenshot](https://github.com/Siam-analytics/Hr-Dashboard/blob/main/Screenshot%202025-04-23%20211017.png) 
 
 ## Dashboard Overview
 An interactive HR analytics dashboard built in Tableau Desktop that visualizes key workforce metrics with dynamic filtering capabilities.
